@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-20261115183000RES001"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-20261115183000RES001">
+    <organization identifier="eXe-20261115183000RES001" structure="hierarchical">
+      <title>Our Ideal City</title>
+      <item identifier="ITEM-ROOT-20261115183000RES001" isvisible="true">
+        <title>Our Ideal City</title>
+        <item identifier="ITEM-20261115183000P00001" identifierref="RES-20261115183000P00001" isvisible="true">
+          <title>1. Presentación y descripción del proyecto</title>
+          <item identifier="ITEM-20261115183000P00002" identifierref="RES-20261115183000P00002" isvisible="true">
+            <title>1.1 Inicio</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00003" identifierref="RES-20261115183000P00003" isvisible="true">
+            <title>1.2 Presentación</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00004" identifierref="RES-20261115183000P00004" isvisible="true">
+            <title>1.3 Derechos digitales y protección de datos</title>
+          </item>
+        </item>
+        <item identifier="ITEM-20261115183000P00005" identifierref="RES-20261115183000P00005" isvisible="true">
+          <title>2. Tareas, actividades y producto final</title>
+          <item identifier="ITEM-20261115183000P00006" identifierref="RES-20261115183000P00006" isvisible="true">
+            <title>2.1 Herramientas para contenidos y producto final</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00007" identifierref="RES-20261115183000P00007" isvisible="true">
+            <title>2.2 Distribución temporal</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00008" identifierref="RES-20261115183000P00008" isvisible="true">
+            <title>2.3 Tarea 1</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00009" identifierref="RES-20261115183000P00009" isvisible="true">
+            <title>2.4 Tarea 2</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00010" identifierref="RES-20261115183000P00010" isvisible="true">
+            <title>2.5 Tarea 3</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00011" identifierref="RES-20261115183000P00011" isvisible="true">
+            <title>2.6 Tarea 4 (tarea final)</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00012" identifierref="RES-20261115183000P00012" isvisible="true">
+            <title>2.7 Tarea 5 (reflexión, evaluación y feedback)</title>
+          </item>
+        </item>
+        <item identifier="ITEM-20261115183000P00013" identifierref="RES-20261115183000P00013" isvisible="true">
+          <title>3. Guía didáctica para el profesorado</title>
+          <item identifier="ITEM-20261115183000P00014" identifierref="RES-20261115183000P00014" isvisible="true">
+            <title>3.1 Justificación y centro de interés</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00015" identifierref="RES-20261115183000P00015" isvisible="true">
+            <title>3.2 Objetivos de aprendizaje</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00016" identifierref="RES-20261115183000P00016" isvisible="true">
+            <title>3.3 Estructura y secuenciación temporal</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00017" identifierref="RES-20261115183000P00017" isvisible="true">
+            <title>3.4 Competencias específicas y criterios de evaluación</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00018" identifierref="RES-20261115183000P00018" isvisible="true">
+            <title>3.5 Saberes básicos</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00019" identifierref="RES-20261115183000P00019" isvisible="true">
+            <title>3.6 Metodología</title>
+          </item>
+          <item identifier="ITEM-20261115183000P00020" identifierref="RES-20261115183000P00020" isvisible="true">
+            <title>3.7 Evaluación y retroalimentación</title>
+            <item identifier="ITEM-20261115183000P00021" identifierref="RES-20261115183000P00021" isvisible="true">
+              <title>3.7.1 Instrumentos de evaluación</title>
+            </item>
+          </item>
+          <item identifier="ITEM-20261115183000P00022" identifierref="RES-20261115183000P00022" isvisible="true">
+            <title>3.8 Atención a la diversidad (DUA)</title>
+          </item>
+        </item>
+        <item identifier="ITEM-20261115183000P00023" identifierref="RES-20261115183000P00023" isvisible="true">
+          <title>4. Créditos</title>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-20261115183000P00001" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00002" type="webcontent" adlcp:scormtype="sco" href="html/11-inicio.html">
+      <file href="html/11-inicio.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00003" type="webcontent" adlcp:scormtype="sco" href="html/12-presentacion.html">
+      <file href="html/12-presentacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00004" type="webcontent" adlcp:scormtype="sco" href="html/13-derechos-digitales-y-proteccion-de-datos.html">
+      <file href="html/13-derechos-digitales-y-proteccion-de-datos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00005" type="webcontent" adlcp:scormtype="sco" href="html/2-tareas-actividades-y-producto-final.html">
+      <file href="html/2-tareas-actividades-y-producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00006" type="webcontent" adlcp:scormtype="sco" href="html/21-herramientas-para-contenidos-y-producto-final.html">
+      <file href="html/21-herramientas-para-contenidos-y-producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00007" type="webcontent" adlcp:scormtype="sco" href="html/22-distribucion-temporal.html">
+      <file href="html/22-distribucion-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00008" type="webcontent" adlcp:scormtype="sco" href="html/23-tarea-1.html">
+      <file href="html/23-tarea-1.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00009" type="webcontent" adlcp:scormtype="sco" href="html/24-tarea-2.html">
+      <file href="html/24-tarea-2.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00010" type="webcontent" adlcp:scormtype="sco" href="html/25-tarea-3.html">
+      <file href="html/25-tarea-3.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00011" type="webcontent" adlcp:scormtype="sco" href="html/26-tarea-4-tarea-final.html">
+      <file href="html/26-tarea-4-tarea-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00012" type="webcontent" adlcp:scormtype="sco" href="html/27-tarea-5-reflexion-evaluacion-y-feedback.html">
+      <file href="html/27-tarea-5-reflexion-evaluacion-y-feedback.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00013" type="webcontent" adlcp:scormtype="sco" href="html/3-guia-didactica-para-el-profesorado.html">
+      <file href="html/3-guia-didactica-para-el-profesorado.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00014" type="webcontent" adlcp:scormtype="sco" href="html/31-justificacion-y-centro-de-interes.html">
+      <file href="html/31-justificacion-y-centro-de-interes.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00015" type="webcontent" adlcp:scormtype="sco" href="html/32-objetivos-de-aprendizaje.html">
+      <file href="html/32-objetivos-de-aprendizaje.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00016" type="webcontent" adlcp:scormtype="sco" href="html/33-estructura-y-secuenciacion-temporal.html">
+      <file href="html/33-estructura-y-secuenciacion-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00017" type="webcontent" adlcp:scormtype="sco" href="html/34-competencias-especificas-y-criterios-de-evaluac.html">
+      <file href="html/34-competencias-especificas-y-criterios-de-evaluac.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00018" type="webcontent" adlcp:scormtype="sco" href="html/35-saberes-basicos.html">
+      <file href="html/35-saberes-basicos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00019" type="webcontent" adlcp:scormtype="sco" href="html/36-metodologia.html">
+      <file href="html/36-metodologia.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00020" type="webcontent" adlcp:scormtype="sco" href="html/37-evaluacion-y-retroalimentacion.html">
+      <file href="html/37-evaluacion-y-retroalimentacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00021" type="webcontent" adlcp:scormtype="sco" href="html/371-instrumentos-de-evaluacion.html">
+      <file href="html/371-instrumentos-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00022" type="webcontent" adlcp:scormtype="sco" href="html/38-atencion-a-la-diversidad-dua.html">
+      <file href="html/38-atencion-a-la-diversidad-dua.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-20261115183000P00023" type="webcontent" adlcp:scormtype="sco" href="html/4-creditos.html">
+      <file href="html/4-creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_atools/exe_atools.css"/>
+      <file href="libs/exe_atools/exe_atools.js"/>
+      <file href="libs/exe_atools/exe_atools.png"/>
+      <file href="libs/exe_atools/exe_atools_ah.woff2"/>
+      <file href="libs/exe_atools/exe_atools_ah_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_cy.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_cy_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_vi.woff2"/>
+      <file href="libs/exe_atools/exe_atools_od.woff2"/>
+      <file href="libs/exe_atools/exe_atools_od_b.woff2"/>
+      <file href="libs/exe_atools/exe_atools_od_bi.woff2"/>
+      <file href="libs/exe_atools/exe_atools_od_i.woff2"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/Nunito-Bold.woff2"/>
+      <file href="theme/fonts/Nunito-BoldItalic.woff2"/>
+      <file href="theme/fonts/Nunito-Italic.woff2"/>
+      <file href="theme/fonts/Nunito-Regular.woff2"/>
+      <file href="theme/fonts/OFL.txt"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_color.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_down_color.svg"/>
+      <file href="theme/img/arrow_down_white.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/arrow_up.svg"/>
+      <file href="theme/img/arrow_up_white.svg"/>
+      <file href="theme/img/back_arrow.svg"/>
+      <file href="theme/img/background.png"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/book_white.svg"/>
+      <file href="theme/img/forward_arrow.svg"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/menu_open_black.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>

@@ -1,0 +1,2265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261115183000RES001</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261115183000RES002</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Our Ideal City</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje · 1.º de Bachillerato</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Oliva Domínguez Polvillo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje para diseñar y presentar una ciudad ideal sostenible en inglés.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1795086043944</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>20261115183000P00001</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00001</odePageId>
+      <odeBlockId>20261115183000B00001</odeBlockId>
+      <blockName>1. Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00001</odePageId>
+          <odeBlockId>20261115183000B00001</odeBlockId>
+          <odeIdeviceId>20261115183000I00001</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>En esta situación de aprendizaje vamos a describir nuestra ciudad o barrio ideal en inglés. Aprenderemos vocabulario y estructuras para diseñar espacios urbanos sostenibles y humanizados, como si formáramos parte del gobierno local y pudiéramos proponer medidas para mejorar la vida de la ciudadanía.</p><p>Trabajarás de forma individual y colaborativa, utilizarás herramientas digitales para crear una presentación y desarrollarás tus destrezas orales y escritas. Al final compartirás tus ideas y reflexionarás sobre tu aprendizaje.</p><p class="callout"><strong>Tu reto:</strong> imaginar una ciudad mejor y convencer a los demás de que tus propuestas pueden hacerla realidad.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00001","textTextarea":"<p>En esta situación de aprendizaje vamos a describir nuestra ciudad o barrio ideal en inglés. Aprenderemos vocabulario y estructuras para diseñar espacios urbanos sostenibles y humanizados, como si formáramos parte del gobierno local y pudiéramos proponer medidas para mejorar la vida de la ciudadanía.</p><p>Trabajarás de forma individual y colaborativa, utilizarás herramientas digitales para crear una presentación y desarrollarás tus destrezas orales y escritas. Al final compartirás tus ideas y reflexionarás sobre tu aprendizaje.</p><p class=\"callout\"><strong>Tu reto:</strong> imaginar una ciudad mejor y convencer a los demás de que tus propuestas pueden hacerla realidad.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00002</odePageId>
+  <odeParentPageId>20261115183000P00001</odeParentPageId>
+  <pageName>1.1 Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1 Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1 Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00002</odePageId>
+      <odeBlockId>20261115183000B00002</odeBlockId>
+      <blockName>1.1 Inicio</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00002</odePageId>
+          <odeBlockId>20261115183000B00002</odeBlockId>
+          <odeIdeviceId>20261115183000I00002</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><h2>Welcome to “Our Ideal City”!</h2><p>¡Bienvenidos! En esta situación de aprendizaje vamos a describir nuestra ciudad o barrio ideal en inglés. A lo largo de las próximas sesiones aprenderemos a utilizar estructuras gramaticales y vocabulario útil para diseñar lugares, edificios y espacios urbanos sostenibles y humanizados.</p><p>Trabajaremos como si estuviéramos en el gobierno local y pudiéramos tomar medidas para mejorar la vida de los ciudadanos. Usaremos nuestra creatividad para presentar y compartir nuestras propuestas con el resto de la clase.</p><p>Las tareas combinan trabajo individual y colaborativo, herramientas digitales, comunicación oral y escrita y reflexión sobre el propio aprendizaje.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00002","textTextarea":"<h2>Welcome to “Our Ideal City”!</h2><p>¡Bienvenidos! En esta situación de aprendizaje vamos a describir nuestra ciudad o barrio ideal en inglés. A lo largo de las próximas sesiones aprenderemos a utilizar estructuras gramaticales y vocabulario útil para diseñar lugares, edificios y espacios urbanos sostenibles y humanizados.</p><p>Trabajaremos como si estuviéramos en el gobierno local y pudiéramos tomar medidas para mejorar la vida de los ciudadanos. Usaremos nuestra creatividad para presentar y compartir nuestras propuestas con el resto de la clase.</p><p>Las tareas combinan trabajo individual y colaborativo, herramientas digitales, comunicación oral y escrita y reflexión sobre el propio aprendizaje.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00003</odePageId>
+  <odeParentPageId>20261115183000P00001</odeParentPageId>
+  <pageName>1.2 Presentación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2 Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2 Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00003</odePageId>
+      <odeBlockId>20261115183000B00003</odeBlockId>
+      <blockName>1.2 Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00003</odePageId>
+          <odeBlockId>20261115183000B00003</odeBlockId>
+          <odeIdeviceId>20261115183000I00003</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><h2>Are you ready to explore and describe?</h2><p>Vamos a diseñar una ciudad en la que nos gustaría vivir. Usaremos vocabulario relacionado con entornos urbanos sostenibles y estructuras como los tiempos de futuro y los condicionales.</p><p>También aprenderemos a organizar y presentar la información de manera clara y efectiva, utilizando herramientas digitales para crear presentaciones con varias diapositivas.</p><p>A lo largo de las sesiones pondrás en práctica tus conocimientos, colaborarás con tus compañeros y mejorarás tus habilidades de comunicación en inglés.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00003","textTextarea":"<h2>Are you ready to explore and describe?</h2><p>Vamos a diseñar una ciudad en la que nos gustaría vivir. Usaremos vocabulario relacionado con entornos urbanos sostenibles y estructuras como los tiempos de futuro y los condicionales.</p><p>También aprenderemos a organizar y presentar la información de manera clara y efectiva, utilizando herramientas digitales para crear presentaciones con varias diapositivas.</p><p>A lo largo de las sesiones pondrás en práctica tus conocimientos, colaborarás con tus compañeros y mejorarás tus habilidades de comunicación en inglés.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00004</odePageId>
+  <odeParentPageId>20261115183000P00001</odeParentPageId>
+  <pageName>1.3 Derechos digitales y protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3 Derechos digitales y protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3 Derechos digitales y protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00004</odePageId>
+      <odeBlockId>20261115183000B00004</odeBlockId>
+      <blockName>1.3 Derechos digitales y protección de datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00004</odePageId>
+          <odeBlockId>20261115183000B00004</odeBlockId>
+          <odeIdeviceId>20261115183000I00004</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><h2>Digital citizenship: create responsibly</h2><p>Para crear vuestro producto digital, tendremos en cuenta estas normas básicas:</p><ul><li>Todo el trabajo ha de ser original, realizado sin usar inteligencia artificial.</li><li>Se permite usar fotografías libres de copyright.</li><li>Hay que citar adecuadamente cualquier fuente, recurso o web que se incluya en el trabajo, respetando los derechos de autor.</li></ul><p><strong>Recurso de apoyo:</strong> <a href="https://drive.google.com/file/d/1sTDJrvHucbZ6WdECC6dGC_tvLV9fEHU9/view?usp=sharing" target="_blank" rel="noopener">Infografía sobre Seguridad Digital</a>.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00004","textTextarea":"<h2>Digital citizenship: create responsibly</h2><p>Para crear vuestro producto digital, tendremos en cuenta estas normas básicas:</p><ul><li>Todo el trabajo ha de ser original, realizado sin usar inteligencia artificial.</li><li>Se permite usar fotografías libres de copyright.</li><li>Hay que citar adecuadamente cualquier fuente, recurso o web que se incluya en el trabajo, respetando los derechos de autor.</li></ul><p><strong>Recurso de apoyo:</strong> <a href=\"https://drive.google.com/file/d/1sTDJrvHucbZ6WdECC6dGC_tvLV9fEHU9/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Infografía sobre Seguridad Digital</a>.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00005</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Tareas, actividades y producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Tareas, actividades y producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Tareas, actividades y producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00005</odePageId>
+      <odeBlockId>20261115183000B00005</odeBlockId>
+      <blockName>2. Tareas, actividades y producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00005</odePageId>
+          <odeBlockId>20261115183000B00005</odeBlockId>
+          <odeIdeviceId>20261115183000I00005</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>Este proyecto se desarrolla mediante cinco tareas: investigar y aprender vocabulario, analizar ciudades actuales, diseñar una presentación colaborativa, exponerla oralmente y reflexionar sobre el aprendizaje.</p><p><strong>Producto final:</strong> una presentación digital grupal sobre una ciudad ideal, acompañada de una exposición oral en inglés.</p><p>Avanza por las tareas en orden y conserva las fichas de trabajo: te ayudarán a construir el producto final.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00005","textTextarea":"<p>Este proyecto se desarrolla mediante cinco tareas: investigar y aprender vocabulario, analizar ciudades actuales, diseñar una presentación colaborativa, exponerla oralmente y reflexionar sobre el aprendizaje.</p><p><strong>Producto final:</strong> una presentación digital grupal sobre una ciudad ideal, acompañada de una exposición oral en inglés.</p><p>Avanza por las tareas en orden y conserva las fichas de trabajo: te ayudarán a construir el producto final.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00006</odePageId>
+  <odeParentPageId>20261115183000P00005</odeParentPageId>
+  <pageName>2.1 Herramientas para contenidos y producto final</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1 Herramientas para contenidos y producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1 Herramientas para contenidos y producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00006</odePageId>
+      <odeBlockId>20261115183000B00006</odeBlockId>
+      <blockName>2.1 Herramientas para contenidos y producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00006</odePageId>
+          <odeBlockId>20261115183000B00006</odeBlockId>
+          <odeIdeviceId>20261115183000I00006</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>Consulta este <a href="https://padlet.com/mdompol399/our-ideal-city-s02537ap9wa11pul98tu" target="_blank" rel="noopener">Padlet de “Our Ideal City”</a>, que reúne contenidos y herramientas que pueden resultar útiles para las tareas y el producto final.</p><p>Utiliza los recursos con criterio y recuerda citar las fuentes y las imágenes que incorpores.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00006","textTextarea":"<p>Consulta este <a href=\"https://padlet.com/mdompol399/our-ideal-city-s02537ap9wa11pul98tu\" target=\"_blank\" rel=\"noopener\">Padlet de “Our Ideal City”</a>, que reúne contenidos y herramientas que pueden resultar útiles para las tareas y el producto final.</p><p>Utiliza los recursos con criterio y recuerda citar las fuentes y las imágenes que incorpores.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00007</odePageId>
+  <odeParentPageId>20261115183000P00005</odeParentPageId>
+  <pageName>2.2 Distribución temporal</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2 Distribución temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2 Distribución temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00007</odePageId>
+      <odeBlockId>20261115183000B00007</odeBlockId>
+      <blockName>2.2 Distribución temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00007</odePageId>
+          <odeBlockId>20261115183000B00007</odeBlockId>
+          <odeIdeviceId>20261115183000I00007</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>El siguiente <a href="https://drive.google.com/file/d/1bH9ey_e3_splkVGwRjwDyAlqmfxo6ots/view?usp=sharing" target="_blank" rel="noopener">mapa conceptual de distribución temporal</a> permite hacerse una idea del tiempo necesario para planificar y realizar el trabajo. La planificación está sujeta a cambios según sea necesario.</p><p>La secuencia prevista comprende cinco sesiones de 60 minutos.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00007","textTextarea":"<p>El siguiente <a href=\"https://drive.google.com/file/d/1bH9ey_e3_splkVGwRjwDyAlqmfxo6ots/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">mapa conceptual de distribución temporal</a> permite hacerse una idea del tiempo necesario para planificar y realizar el trabajo. La planificación está sujeta a cambios según sea necesario.</p><p>La secuencia prevista comprende cinco sesiones de 60 minutos.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00008</odePageId>
+  <odeParentPageId>20261115183000P00005</odeParentPageId>
+  <pageName>2.3 Tarea 1</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.3 Tarea 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.3 Tarea 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00008</odePageId>
+      <odeBlockId>20261115183000B00008</odeBlockId>
+      <blockName>2.3 Tarea 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00008</odePageId>
+          <odeBlockId>20261115183000B00008</odeBlockId>
+          <odeIdeviceId>20261115183000I00008</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Task 1 · Vocabulary and grammar</h2>
+<p>Aprenderás vocabulario relacionado con lugares y edificios de la ciudad, temas sociales, transporte y medioambiente. Practicarás los tiempos de futuro y la primera condicional.</p>
+<h3>Instrucciones</h3>
+<ol>
+<li>Consulta y lee las webs para seleccionar vocabulario e ideas que puedas incluir en tu trabajo.</li>
+<li>Completa la <a href="https://drive.google.com/file/d/112y6Qi7XZqtWc_zTONxi1jXsUowNTg4o/view?usp=sharing" target="_blank" rel="noopener">Worksheet 1</a>.</li>
+<li>Realiza ejercicios de gramática para practicar y repasar las estructuras.</li>
+</ol>
+<h3>Webs de consulta</h3>
+<ul>
+<li><a href="https://sdgs.un.org/goals/goal11" target="_blank" rel="noopener">United Nations SDG 11</a>: ciudades y asentamientos humanos inclusivos, seguros, resilientes y sostenibles.</li>
+<li><a href="https://www.eea.europa.eu/" target="_blank" rel="noopener">European Environment Agency</a>: transformación de las ciudades hacia la sostenibilidad.</li>
+<li><a href="https://education.nationalgeographic.org/resource/urban-planning/" target="_blank" rel="noopener" title="">National Geographic</a>: urban planning.</li>
+</ul>
+<h3>Grammar practice</h3>
+<ul>
+<li><a href="http://www.english-practice.at/b1/grammar/tenses/t-019-future-tenses.pdf" target="_blank" rel="noopener">Future tenses – exercises (PDF)</a>.</li>
+<li><a href="http://www.english-practice.at/b1/grammar/if-clauses/b1-if-clauses-index.htm#google_vignette" target="_blank" rel="noopener">First conditional – exercises</a>.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00008","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Task 1 · Vocabulary and grammar</h2>\n<p>Aprenderás vocabulario relacionado con lugares y edificios de la ciudad, temas sociales, transporte y medioambiente. Practicarás los tiempos de futuro y la primera condicional.</p>\n<h3>Instrucciones</h3>\n<ol>\n<li>Consulta y lee las webs para seleccionar vocabulario e ideas que puedas incluir en tu trabajo.</li>\n<li>Completa la <a href=\"https://drive.google.com/file/d/112y6Qi7XZqtWc_zTONxi1jXsUowNTg4o/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Worksheet 1</a>.</li>\n<li>Realiza ejercicios de gramática para practicar y repasar las estructuras.</li>\n</ol>\n<h3>Webs de consulta</h3>\n<ul>\n<li><a href=\"https://sdgs.un.org/goals/goal11\" target=\"_blank\" rel=\"noopener\">United Nations SDG 11</a>: ciudades y asentamientos humanos inclusivos, seguros, resilientes y sostenibles.</li>\n<li><a href=\"https://www.eea.europa.eu/\" target=\"_blank\" rel=\"noopener\">European Environment Agency</a>: transformación de las ciudades hacia la sostenibilidad.</li>\n<li><a href=\"https://education.nationalgeographic.org/resource/urban-planning/\" target=\"_blank\" rel=\"noopener\" title=\"\">National Geographic</a>: urban planning.</li>\n</ul>\n<h3>Grammar practice</h3>\n<ul>\n<li><a href=\"http://www.english-practice.at/b1/grammar/tenses/t-019-future-tenses.pdf\" target=\"_blank\" rel=\"noopener\">Future tenses – exercises (PDF)</a>.</li>\n<li><a href=\"http://www.english-practice.at/b1/grammar/if-clauses/b1-if-clauses-index.htm#google_vignette\" target=\"_blank\" rel=\"noopener\">First conditional – exercises</a>.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00009</odePageId>
+  <odeParentPageId>20261115183000P00005</odeParentPageId>
+  <pageName>2.4 Tarea 2</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.4 Tarea 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.4 Tarea 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00009</odePageId>
+      <odeBlockId>20261115183000B00009</odeBlockId>
+      <blockName>2.4 Tarea 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00009</odePageId>
+          <odeBlockId>20261115183000B00009</odeBlockId>
+          <odeIdeviceId>20261115183000I00009</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Task 2 · What makes a city a great place to live?</h2>
+<p>Consultarás una web y verás un vídeo sobre algunas de las mejores ciudades para vivir en la actualidad. Después elaborarás un resumen de características o medidas y participarás en un debate sobre sus ventajas e inconvenientes.</p>
+<h3>Instrucciones</h3>
+<ol>
+<li>Consulta la web <a href="https://www.worldsbestcities.com/rankings/worlds-best-cities/" target="_blank" rel="noopener" title="">World’s Best Cities 2026</a>.</li>
+<li>Visualiza el vídeo <a href="https://www.youtube.com/results?search_query=Top+10+Best+Cities+to+Live+in+the+World+Right+Now+in+2026" target="_blank" rel="noopener">Top 10 Best Cities to Live in the World Right Now in 2026!</a>.</li>
+<li>Completa la <a href="https://drive.google.com/file/d/12IsEGFpeMfwYJMUb3NAnT_YSC2kBYhcq/view?usp=sharing" target="_blank" rel="noopener">Worksheet 2</a>.</li>
+<li>Selecciona ideas y aspectos positivos y negativos para debatir en clase.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00009","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Task 2 · What makes a city a great place to live?</h2>\n<p>Consultarás una web y verás un vídeo sobre algunas de las mejores ciudades para vivir en la actualidad. Después elaborarás un resumen de características o medidas y participarás en un debate sobre sus ventajas e inconvenientes.</p>\n<h3>Instrucciones</h3>\n<ol>\n<li>Consulta la web <a href=\"https://www.worldsbestcities.com/rankings/worlds-best-cities/\" target=\"_blank\" rel=\"noopener\" title=\"\">World’s Best Cities 2026</a>.</li>\n<li>Visualiza el vídeo <a href=\"https://www.youtube.com/results?search_query=Top+10+Best+Cities+to+Live+in+the+World+Right+Now+in+2026\" target=\"_blank\" rel=\"noopener\">Top 10 Best Cities to Live in the World Right Now in 2026!</a>.</li>\n<li>Completa la <a href=\"https://drive.google.com/file/d/12IsEGFpeMfwYJMUb3NAnT_YSC2kBYhcq/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Worksheet 2</a>.</li>\n<li>Selecciona ideas y aspectos positivos y negativos para debatir en clase.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00010</odePageId>
+  <odeParentPageId>20261115183000P00005</odeParentPageId>
+  <pageName>2.5 Tarea 3</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.5 Tarea 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.5 Tarea 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00010</odePageId>
+      <odeBlockId>20261115183000B00010</odeBlockId>
+      <blockName>2.5 Tarea 3</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00010</odePageId>
+          <odeBlockId>20261115183000B00010</odeBlockId>
+          <odeIdeviceId>20261115183000I00010</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Task 3 · Design your ideal city</h2>
+<p>Crearás una presentación digital en grupo con diapositivas para describir vuestra ciudad ideal. Aplica el vocabulario y la gramática aprendidos. Puedes utilizar Google Slides, Canva o Genially.</p>
+<h3>Instrucciones</h3>
+<ol>
+<li>Trabaja en equipo y acordad <strong>5 medidas</strong> para hacer una ciudad más habitable. Sigue el esquema de la <a href="https://drive.google.com/file/d/1_Ov6BPjRWOl78Xl1ebKaG4kWAe9FJwHk/view?usp=sharing" target="_blank" rel="noopener">ficha de bloques temáticos</a>, seleccionando 5 de los 6 bloques incluidos.</li>
+<li>Cada alumno/a diseña una diapositiva con una medida, siguiendo la <a href="https://drive.google.com/file/d/1VBYM_gVOj9lzkqbhPN2KRoLuESVlpkNn/view?usp=sharing" target="_blank" rel="noopener">Worksheet 3</a>.</li>
+<li>Utiliza el vocabulario y las estructuras estudiadas.</li>
+<li>Incluye imágenes libres de copyright relacionadas con el lugar y las medidas elegidas.</li>
+<li>Revisa las diapositivas de tus compañeros y proporciona retroalimentación constructiva.</li>
+<li>Modifica tu diapositiva según las sugerencias recibidas.</li>
+<li>Sube la presentación a Drive y compártela con la profesora y tus compañeros por correo electrónico (cuenta corporativa) o Google Classroom.</li>
+<li>Ensaya la presentación oral: explica con claridad y utiliza vocabulario y gramática adecuados.</li>
+</ol>
+<p><strong title="">Herramientas sugeridas:</strong> <a href="https://www.canva.com/es_es/educacion/estudiantes/">Canva</a>, <a href="https://genially.com/es/">Genially</a> y Google Slides (cuenta corporativa).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00010","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Task 3 · Design your ideal city</h2>\n<p>Crearás una presentación digital en grupo con diapositivas para describir vuestra ciudad ideal. Aplica el vocabulario y la gramática aprendidos. Puedes utilizar Google Slides, Canva o Genially.</p>\n<h3>Instrucciones</h3>\n<ol>\n<li>Trabaja en equipo y acordad <strong>5 medidas</strong> para hacer una ciudad más habitable. Sigue el esquema de la <a href=\"https://drive.google.com/file/d/1_Ov6BPjRWOl78Xl1ebKaG4kWAe9FJwHk/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">ficha de bloques temáticos</a>, seleccionando 5 de los 6 bloques incluidos.</li>\n<li>Cada alumno/a diseña una diapositiva con una medida, siguiendo la <a href=\"https://drive.google.com/file/d/1VBYM_gVOj9lzkqbhPN2KRoLuESVlpkNn/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Worksheet 3</a>.</li>\n<li>Utiliza el vocabulario y las estructuras estudiadas.</li>\n<li>Incluye imágenes libres de copyright relacionadas con el lugar y las medidas elegidas.</li>\n<li>Revisa las diapositivas de tus compañeros y proporciona retroalimentación constructiva.</li>\n<li>Modifica tu diapositiva según las sugerencias recibidas.</li>\n<li>Sube la presentación a Drive y compártela con la profesora y tus compañeros por correo electrónico (cuenta corporativa) o Google Classroom.</li>\n<li>Ensaya la presentación oral: explica con claridad y utiliza vocabulario y gramática adecuados.</li>\n</ol>\n<p><strong title=\"\">Herramientas sugeridas:</strong> <a href=\"https://www.canva.com/es_es/educacion/estudiantes/\">Canva</a>, <a href=\"https://genially.com/es/\">Genially</a> y Google Slides (cuenta corporativa).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00011</odePageId>
+  <odeParentPageId>20261115183000P00005</odeParentPageId>
+  <pageName>2.6 Tarea 4 (tarea final)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.6 Tarea 4 (tarea final)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.6 Tarea 4 (tarea final)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00011</odePageId>
+      <odeBlockId>20261115183000B00011</odeBlockId>
+      <blockName>2.6 Tarea 4 (tarea final)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00011</odePageId>
+          <odeBlockId>20261115183000B00011</odeBlockId>
+          <odeIdeviceId>20261115183000I00011</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><h2>Task 4 · Present your ideal city</h2><p>La tarea final consiste en presentar oralmente el producto escrito grupal. Se evaluará la claridad de la presentación, el contenido y el uso adecuado del vocabulario y las estructuras.</p><h3>Instrucciones</h3><ol><li>Prepara tu presentación oral de manera clara y organizada.</li><li>Usa las diapositivas como apoyo visual para describir el lugar.</li><li>Practica varias veces antes de la presentación.</li><li>Contesta a las preguntas o dudas de tus compañeros de clase.</li></ol><p>Consulta el <a href="https://drive.google.com/file/d/1jqW-Q4Z0doYGo641I9KcYzT9lXMqRd1l/view?usp=sharing" target="_blank" rel="noopener">esquema de la Worksheet 4</a>.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00011","textTextarea":"<h2>Task 4 · Present your ideal city</h2><p>La tarea final consiste en presentar oralmente el producto escrito grupal. Se evaluará la claridad de la presentación, el contenido y el uso adecuado del vocabulario y las estructuras.</p><h3>Instrucciones</h3><ol><li>Prepara tu presentación oral de manera clara y organizada.</li><li>Usa las diapositivas como apoyo visual para describir el lugar.</li><li>Practica varias veces antes de la presentación.</li><li>Contesta a las preguntas o dudas de tus compañeros de clase.</li></ol><p>Consulta el <a href=\"https://drive.google.com/file/d/1jqW-Q4Z0doYGo641I9KcYzT9lXMqRd1l/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">esquema de la Worksheet 4</a>.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00012</odePageId>
+  <odeParentPageId>20261115183000P00005</odeParentPageId>
+  <pageName>2.7 Tarea 5 (reflexión, evaluación y feedback)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.7 Tarea 5 (reflexión, evaluación y feedback)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.7 Tarea 5 (reflexión, evaluación y feedback)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00012</odePageId>
+      <odeBlockId>20261115183000B00012</odeBlockId>
+      <blockName>2.7 Tarea 5 (reflexión, evaluación y feedback)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00012</odePageId>
+          <odeBlockId>20261115183000B00012</odeBlockId>
+          <odeIdeviceId>20261115183000I00012</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><h2>Task 5 · Reflect, evaluate and improve</h2><p>Para reflexionar sobre todo lo que has aprendido, completa el cuestionario o la diana de evaluación. Puedes elegir el instrumento.</p><h3>Instrucciones</h3><ol><li>Completa el <a href="https://drive.google.com/file/d/1ZtAUFTvQrWXa44ZxO_zgP0Mz9KrM74Ya/view?usp=sharing" target="_blank" rel="noopener">cuestionario de evaluación</a> o la <a href="https://drive.google.com/file/d/1xykc4pMzzFrZt2sXZ4uIuCsZDkf3BrQS/view?usp=sharing" target="_blank" rel="noopener">diana de evaluación</a> sobre tu propio trabajo y aprendizaje.</li><li>Incluye las dificultades encontradas y al menos una propuesta de mejora.</li><li>Compara tus respuestas con el resto de miembros de tu grupo y de la clase.</li><li>La profesora evaluará vuestro trabajo con la rúbrica de evaluación.</li></ol></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00012","textTextarea":"<h2>Task 5 · Reflect, evaluate and improve</h2><p>Para reflexionar sobre todo lo que has aprendido, completa el cuestionario o la diana de evaluación. Puedes elegir el instrumento.</p><h3>Instrucciones</h3><ol><li>Completa el <a href=\"https://drive.google.com/file/d/1ZtAUFTvQrWXa44ZxO_zgP0Mz9KrM74Ya/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">cuestionario de evaluación</a> o la <a href=\"https://drive.google.com/file/d/1xykc4pMzzFrZt2sXZ4uIuCsZDkf3BrQS/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">diana de evaluación</a> sobre tu propio trabajo y aprendizaje.</li><li>Incluye las dificultades encontradas y al menos una propuesta de mejora.</li><li>Compara tus respuestas con el resto de miembros de tu grupo y de la clase.</li><li>La profesora evaluará vuestro trabajo con la rúbrica de evaluación.</li></ol>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00013</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Guía didáctica para el profesorado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Guía didáctica para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Guía didáctica para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00013</odePageId>
+      <odeBlockId>20261115183000B00013</odeBlockId>
+      <blockName>3. Guía didáctica para el profesorado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00013</odePageId>
+          <odeBlockId>20261115183000B00013</odeBlockId>
+          <odeIdeviceId>20261115183000I00013</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>Este apartado recoge la fundamentación didáctica, los objetivos, la secuenciación, las competencias, los saberes básicos, la metodología, la evaluación y las medidas de atención a la diversidad de la situación de aprendizaje.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00013","textTextarea":"<p>Este apartado recoge la fundamentación didáctica, los objetivos, la secuenciación, las competencias, los saberes básicos, la metodología, la evaluación y las medidas de atención a la diversidad de la situación de aprendizaje.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00014</odePageId>
+  <odeParentPageId>20261115183000P00013</odeParentPageId>
+  <pageName>3.1 Justificación y centro de interés</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1 Justificación y centro de interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1 Justificación y centro de interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00014</odePageId>
+      <odeBlockId>20261115183000B00014</odeBlockId>
+      <blockName>3.1 Justificación y centro de interés</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00014</odePageId>
+          <odeBlockId>20261115183000B00014</odeBlockId>
+          <odeIdeviceId>20261115183000I00014</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>La situación de aprendizaje <em>Our Ideal City</em> está dirigida a estudiantes de 1.º de Bachillerato. Su objetivo principal es desarrollar la capacidad crítica y la habilidad para describir entornos urbanos, reflexionando sobre medidas que hagan las ciudades y barrios más sostenibles y humanizados, utilizando vocabulario y estructuras gramaticales en inglés adecuados al nivel.</p><p>El alumnado trabajará de manera colaborativa y utilizará herramientas digitales como Canva, Genially o Google Slides para crear productos finales. Se realizará una evaluación continua y formativa mediante una rúbrica y un cuestionario o diana de evaluación. Se trabajan contenidos de Inglés y TIC.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00014","textTextarea":"<p>La situación de aprendizaje <em>Our Ideal City</em> está dirigida a estudiantes de 1.º de Bachillerato. Su objetivo principal es desarrollar la capacidad crítica y la habilidad para describir entornos urbanos, reflexionando sobre medidas que hagan las ciudades y barrios más sostenibles y humanizados, utilizando vocabulario y estructuras gramaticales en inglés adecuados al nivel.</p><p>El alumnado trabajará de manera colaborativa y utilizará herramientas digitales como Canva, Genially o Google Slides para crear productos finales. Se realizará una evaluación continua y formativa mediante una rúbrica y un cuestionario o diana de evaluación. Se trabajan contenidos de Inglés y TIC.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00015</odePageId>
+  <odeParentPageId>20261115183000P00013</odeParentPageId>
+  <pageName>3.2 Objetivos de aprendizaje</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2 Objetivos de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2 Objetivos de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00015</odePageId>
+      <odeBlockId>20261115183000B00015</odeBlockId>
+      <blockName>3.2 Objetivos de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00015</odePageId>
+          <odeBlockId>20261115183000B00015</odeBlockId>
+          <odeIdeviceId>20261115183000I00015</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><ul><li>Aprender a describir y diseñar entornos urbanos en inglés utilizando estructuras gramaticales como tiempos de futuro o primera condicional.</li><li>Desarrollar y aplicar vocabulario relacionado con sostenibilidad, habitabilidad, transporte, temas sociales y medioambiente, así como adjetivos para describir edificios y espacios urbanos.</li><li>Practicar la expresión oral mediante exposiciones grupales que incluyan medidas para mejorar la vida en las ciudades.</li><li>Crear un producto digital colaborativo (presentación con diapositivas) utilizando Canva, Genially o Google Slides.</li><li>Trabajar de forma colaborativa y reflexionar sobre el aprendizaje propio y de los compañeros mediante autoevaluación y coevaluación, incorporando propuestas de mejora.</li></ul></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00015","textTextarea":"<ul><li>Aprender a describir y diseñar entornos urbanos en inglés utilizando estructuras gramaticales como tiempos de futuro o primera condicional.</li><li>Desarrollar y aplicar vocabulario relacionado con sostenibilidad, habitabilidad, transporte, temas sociales y medioambiente, así como adjetivos para describir edificios y espacios urbanos.</li><li>Practicar la expresión oral mediante exposiciones grupales que incluyan medidas para mejorar la vida en las ciudades.</li><li>Crear un producto digital colaborativo (presentación con diapositivas) utilizando Canva, Genially o Google Slides.</li><li>Trabajar de forma colaborativa y reflexionar sobre el aprendizaje propio y de los compañeros mediante autoevaluación y coevaluación, incorporando propuestas de mejora.</li></ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00016</odePageId>
+  <odeParentPageId>20261115183000P00013</odeParentPageId>
+  <pageName>3.3 Estructura y secuenciación temporal</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.3 Estructura y secuenciación temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.3 Estructura y secuenciación temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00016</odePageId>
+      <odeBlockId>20261115183000B00016</odeBlockId>
+      <blockName>3.3 Estructura y secuenciación temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00016</odePageId>
+          <odeBlockId>20261115183000B00016</odeBlockId>
+          <odeIdeviceId>20261115183000I00016</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>La secuencia prevista consta de cinco sesiones de 60 minutos:</p><ol><li><strong>Sesión 1.</strong> Introducción al vocabulario y estructuras gramaticales con fichas específicas. Lecturas de webs seleccionadas para reflexionar sobre el tema. <em>Objetivo:</em> comprender y usar vocabulario y estructuras básicas para describir entornos urbanos.</li><li><strong>Sesión 2.</strong> Web y vídeo sobre rankings de mejores ciudades para vivir. Búsqueda de imágenes de ciudades que destacan por sus políticas sostenibles. Debate sobre ventajas e inconvenientes de las medidas y el papel de la ciudadanía. <em>Objetivo:</em> reflexionar sobre medidas concretas para mejorar la vida urbana.</li><li><strong>Sesión 3.</strong> Creación colaborativa de diapositivas en Google Slides, Canva o Genially; búsqueda de imágenes libres de copyright; revisión del producto y selección de cinco medidas. <em>Objetivo:</em> aplicar vocabulario y estructuras en un producto digital.</li><li><strong>Sesión 4.</strong> Presentaciones finales: cada miembro del grupo explica una diapositiva. <em>Objetivo:</em> fomentar la práctica oral y la interacción.</li><li><strong>Sesión 5.</strong> Presentaciones y retroalimentación formativa; evaluación docente mediante rúbricas; autoevaluación, coevaluación y reflexión sobre dificultades y mejoras. <em>Objetivo:</em> evaluar comprensión, expresión escrita y oral, autonomía y trabajo en equipo.</li></ol></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00016","textTextarea":"<p>La secuencia prevista consta de cinco sesiones de 60 minutos:</p><ol><li><strong>Sesión 1.</strong> Introducción al vocabulario y estructuras gramaticales con fichas específicas. Lecturas de webs seleccionadas para reflexionar sobre el tema. <em>Objetivo:</em> comprender y usar vocabulario y estructuras básicas para describir entornos urbanos.</li><li><strong>Sesión 2.</strong> Web y vídeo sobre rankings de mejores ciudades para vivir. Búsqueda de imágenes de ciudades que destacan por sus políticas sostenibles. Debate sobre ventajas e inconvenientes de las medidas y el papel de la ciudadanía. <em>Objetivo:</em> reflexionar sobre medidas concretas para mejorar la vida urbana.</li><li><strong>Sesión 3.</strong> Creación colaborativa de diapositivas en Google Slides, Canva o Genially; búsqueda de imágenes libres de copyright; revisión del producto y selección de cinco medidas. <em>Objetivo:</em> aplicar vocabulario y estructuras en un producto digital.</li><li><strong>Sesión 4.</strong> Presentaciones finales: cada miembro del grupo explica una diapositiva. <em>Objetivo:</em> fomentar la práctica oral y la interacción.</li><li><strong>Sesión 5.</strong> Presentaciones y retroalimentación formativa; evaluación docente mediante rúbricas; autoevaluación, coevaluación y reflexión sobre dificultades y mejoras. <em>Objetivo:</em> evaluar comprensión, expresión escrita y oral, autonomía y trabajo en equipo.</li></ol>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00017</odePageId>
+  <odeParentPageId>20261115183000P00013</odeParentPageId>
+  <pageName>3.4 Competencias específicas y criterios de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4 Competencias específicas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4 Competencias específicas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00017</odePageId>
+      <odeBlockId>20261115183000B00017</odeBlockId>
+      <blockName>3.4 Competencias específicas y criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00017</odePageId>
+          <odeBlockId>20261115183000B00017</odeBlockId>
+          <odeIdeviceId>20261115183000I00017</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><ul><li><strong>Actividad 1 – CE5, criterio 5.2:</strong> emplear con iniciativa estrategias y conocimientos para mejorar la comunicación en lengua extranjera, apoyándose en otros y en recursos analógicos/digitales.</li><li><strong>Actividad 2 – CE1, criterio 1.1:</strong> analizar ideas principales e implicaciones de textos orales, escritos y multimodales sobre temas diversos. <strong>CE3, criterio 3.1:</strong> participar con fluidez y cortesía en interacciones planificadas, ofreciendo argumentos y explicaciones en soportes variados.</li><li><strong>Actividad 3 – CE2, criterio 2.2:</strong> redactar y difundir textos detallados y coherentes sobre temas personales o públicos, citando fuentes y evitando plagio. <strong>CE4, criterio 4.1:</strong> interpretar y explicar textos y conceptos en contextos de diversidad, mostrando respeto y resolviendo problemas de intercomprensión.</li><li><strong>Actividad 4 – CE2, criterio 2.1:</strong> comunicar oralmente de forma fluida y coherente sobre temas personales o públicos, utilizando estrategias comunicativas en diferentes registros y soportes.</li><li><strong>Actividad 5 – CE6, criterio 6.1:</strong> analizar situaciones interculturales, rechazar estereotipos y actuar con empatía y respeto, solucionando problemas comunicativos.</li></ul></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00017","textTextarea":"<ul><li><strong>Actividad 1 – CE5, criterio 5.2:</strong> emplear con iniciativa estrategias y conocimientos para mejorar la comunicación en lengua extranjera, apoyándose en otros y en recursos analógicos/digitales.</li><li><strong>Actividad 2 – CE1, criterio 1.1:</strong> analizar ideas principales e implicaciones de textos orales, escritos y multimodales sobre temas diversos. <strong>CE3, criterio 3.1:</strong> participar con fluidez y cortesía en interacciones planificadas, ofreciendo argumentos y explicaciones en soportes variados.</li><li><strong>Actividad 3 – CE2, criterio 2.2:</strong> redactar y difundir textos detallados y coherentes sobre temas personales o públicos, citando fuentes y evitando plagio. <strong>CE4, criterio 4.1:</strong> interpretar y explicar textos y conceptos en contextos de diversidad, mostrando respeto y resolviendo problemas de intercomprensión.</li><li><strong>Actividad 4 – CE2, criterio 2.1:</strong> comunicar oralmente de forma fluida y coherente sobre temas personales o públicos, utilizando estrategias comunicativas en diferentes registros y soportes.</li><li><strong>Actividad 5 – CE6, criterio 6.1:</strong> analizar situaciones interculturales, rechazar estereotipos y actuar con empatía y respeto, solucionando problemas comunicativos.</li></ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00018</odePageId>
+  <odeParentPageId>20261115183000P00013</odeParentPageId>
+  <pageName>3.5 Saberes básicos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.5 Saberes básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.5 Saberes básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00018</odePageId>
+      <odeBlockId>20261115183000B00018</odeBlockId>
+      <blockName>3.5 Saberes básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00018</odePageId>
+          <odeBlockId>20261115183000B00018</odeBlockId>
+          <odeIdeviceId>20261115183000I00018</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><ul><li>Vocabulario específico para describir entornos urbanos y problemas sociales o medioambientales.</li><li>Tiempos de futuro: <em>will</em>, <em>be going to</em>, presente continuo, futuro continuo y futuro perfecto; primera condicional.</li></ul></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00018","textTextarea":"<ul><li>Vocabulario específico para describir entornos urbanos y problemas sociales o medioambientales.</li><li>Tiempos de futuro: <em>will</em>, <em>be going to</em>, presente continuo, futuro continuo y futuro perfecto; primera condicional.</li></ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00019</odePageId>
+  <odeParentPageId>20261115183000P00013</odeParentPageId>
+  <pageName>3.6 Metodología</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.6 Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.6 Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00019</odePageId>
+      <odeBlockId>20261115183000B00019</odeBlockId>
+      <blockName>3.6 Metodología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00019</odePageId>
+          <odeBlockId>20261115183000B00019</odeBlockId>
+          <odeIdeviceId>20261115183000I00019</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>La metodología será eminentemente práctica y comunicativa, basada en el aprendizaje cooperativo. El alumnado trabajará con material real, impreso y digital, en pequeños grupos de cinco alumnos. Se fomentará la colaboración y la reflexión sobre el aprendizaje.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00019","textTextarea":"<p>La metodología será eminentemente práctica y comunicativa, basada en el aprendizaje cooperativo. El alumnado trabajará con material real, impreso y digital, en pequeños grupos de cinco alumnos. Se fomentará la colaboración y la reflexión sobre el aprendizaje.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00020</odePageId>
+  <odeParentPageId>20261115183000P00013</odeParentPageId>
+  <pageName>3.7 Evaluación y retroalimentación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.7 Evaluación y retroalimentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.7 Evaluación y retroalimentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00020</odePageId>
+      <odeBlockId>20261115183000B00020</odeBlockId>
+      <blockName>3.7 Evaluación y retroalimentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00020</odePageId>
+          <odeBlockId>20261115183000B00020</odeBlockId>
+          <odeIdeviceId>20261115183000I00020</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>La evaluación será continua y formativa. Se evaluará tanto el proceso de aprendizaje como el resultado final de las presentaciones orales y los productos digitales creados.</p><p>La retroalimentación se integrará durante el trabajo cooperativo, especialmente en la revisión de diapositivas y en la reflexión final.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00020","textTextarea":"<p>La evaluación será continua y formativa. Se evaluará tanto el proceso de aprendizaje como el resultado final de las presentaciones orales y los productos digitales creados.</p><p>La retroalimentación se integrará durante el trabajo cooperativo, especialmente en la revisión de diapositivas y en la reflexión final.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00021</odePageId>
+  <odeParentPageId>20261115183000P00020</odeParentPageId>
+  <pageName>3.7.1 Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.7.1 Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.7.1 Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00021</odePageId>
+      <odeBlockId>20261115183000B00021</odeBlockId>
+      <blockName>3.7.1 Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00021</odePageId>
+          <odeBlockId>20261115183000B00021</odeBlockId>
+          <odeIdeviceId>20261115183000I00021</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><ul><li><strong>Rúbrica de evaluación para el profesorado:</strong> evalúa el trabajo en grupo, la calidad del producto final y la presentación oral. <a href="https://drive.google.com/file/d/1G3Juxn1bflsjv4gG22PEDWFBVjFYm2Dp/view?usp=sharing" target="_blank" rel="noopener">Consultar rúbrica</a>.</li><li><strong>Cuestionario y diana de evaluación para el alumnado:</strong> permiten reflexionar sobre el proceso, evaluar el trabajo en grupo, señalar dificultades y añadir propuestas de mejora. Se incluyen también en el apartado 2.7: <a href="https://drive.google.com/file/d/1ZtAUFTvQrWXa44ZxO_zgP0Mz9KrM74Ya/view?usp=sharing" target="_blank" rel="noopener">cuestionario</a> y <a href="https://drive.google.com/file/d/1xykc4pMzzFrZt2sXZ4uIuCsZDkf3BrQS/view?usp=sharing" target="_blank" rel="noopener">diana</a>.</li></ul></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00021","textTextarea":"<ul><li><strong>Rúbrica de evaluación para el profesorado:</strong> evalúa el trabajo en grupo, la calidad del producto final y la presentación oral. <a href=\"https://drive.google.com/file/d/1G3Juxn1bflsjv4gG22PEDWFBVjFYm2Dp/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">Consultar rúbrica</a>.</li><li><strong>Cuestionario y diana de evaluación para el alumnado:</strong> permiten reflexionar sobre el proceso, evaluar el trabajo en grupo, señalar dificultades y añadir propuestas de mejora. Se incluyen también en el apartado 2.7: <a href=\"https://drive.google.com/file/d/1ZtAUFTvQrWXa44ZxO_zgP0Mz9KrM74Ya/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">cuestionario</a> y <a href=\"https://drive.google.com/file/d/1xykc4pMzzFrZt2sXZ4uIuCsZDkf3BrQS/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">diana</a>.</li></ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00022</odePageId>
+  <odeParentPageId>20261115183000P00013</odeParentPageId>
+  <pageName>3.8 Atención a la diversidad (DUA)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.8 Atención a la diversidad (DUA)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.8 Atención a la diversidad (DUA)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00022</odePageId>
+      <odeBlockId>20261115183000B00022</odeBlockId>
+      <blockName>3.8 Atención a la diversidad (DUA)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00022</odePageId>
+          <odeBlockId>20261115183000B00022</odeBlockId>
+          <odeIdeviceId>20261115183000I00022</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><p>Las actividades se han diseñado para que todos los estudiantes puedan participar activamente, independientemente de sus habilidades lingüísticas o tecnológicas. Se tienen en cuenta estos principios del Diseño Universal para el Aprendizaje (DUA):</p><ul><li>Presentación múltiple de la información: visual, oral y escrita.</li><li>Oportunidades para el trabajo en grupo y la colaboración.</li><li>Flexibilidad en el producto final: presentación escrita y oral.</li></ul></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00022","textTextarea":"<p>Las actividades se han diseñado para que todos los estudiantes puedan participar activamente, independientemente de sus habilidades lingüísticas o tecnológicas. Se tienen en cuenta estos principios del Diseño Universal para el Aprendizaje (DUA):</p><ul><li>Presentación múltiple de la información: visual, oral y escrita.</li><li>Oportunidades para el trabajo en grupo y la colaboración.</li><li>Flexibilidad en el producto final: presentación escrita y oral.</li></ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>20261115183000P00023</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Créditos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>20261115183000P00023</odePageId>
+      <odeBlockId>20261115183000B00023</odeBlockId>
+      <blockName>4. Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>20261115183000P00023</odePageId>
+          <odeBlockId>20261115183000B00023</odeBlockId>
+          <odeIdeviceId>20261115183000I00023</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent"><div class="exe-text-activity"><div><h2>Créditos y licencia</h2><p><strong>Autoría:</strong> Este recurso ha sido desarrollado por <strong>María Oliva Domínguez Polvillo</strong> para la situación de aprendizaje <em>Our Ideal City</em>, en el marco del curso de formación docente de Competencia Digital B2.</p><p>La situación de aprendizaje fue diseñada con el propósito de promover el aprendizaje de inglés en estudiantes de 1.º de Bachillerato mediante el trabajo cooperativo y el uso de herramientas digitales.</p><p><strong>Licencia:</strong> obra publicada con licencia <strong>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</strong>.</p><p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" target="_blank" rel="noopener">Consultar los términos de la licencia</a>.</p></div></div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20261115183000I00023","textTextarea":"<h2>Créditos y licencia</h2><p><strong>Autoría:</strong> Este recurso ha sido desarrollado por <strong>María Oliva Domínguez Polvillo</strong> para la situación de aprendizaje <em>Our Ideal City</em>, en el marco del curso de formación docente de Competencia Digital B2.</p><p>La situación de aprendizaje fue diseñada con el propósito de promover el aprendizaje de inglés en estudiantes de 1.º de Bachillerato mediante el trabajo cooperativo y el uso de herramientas digitales.</p><p><strong>Licencia:</strong> obra publicada con licencia <strong>Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</strong>.</p><p><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es\" target=\"_blank\" rel=\"noopener\">Consultar los términos de la licencia</a>.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":"","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
